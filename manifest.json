@@ -1,0 +1,19 @@
+{
+  "server_name": "avoramc",
+  "nice_name": "AvoraMC",
+  "direct_ip": "acvoramc.de",
+  "social": {
+    "web": "AvoraMC.de",
+    "web_support": "https://wiki.acewolf.eu",
+    "discord": "dc.AvoraMC.de"
+  },
+  "discord": {
+    "server_id": 1193713066869784677,
+    "rename_to_minecraft_name": false
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  }
+}
